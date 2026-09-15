@@ -1,0 +1,52 @@
+[
+  {
+    "id": "eval_01",
+    "question": "What are the essential spices required for preparing authentic Indian Garam Masala?",
+    "ground_truth": "Garam Masala requires cardamom pods, cinnamon sticks, cloves, cumin seeds, coriander seeds, black peppercorns, and nutmeg ground together."
+  },
+  {
+    "id": "eval_02",
+    "question": "How to prepare Vegetable Biryani rice with spices?",
+    "ground_truth": "Soak Basmati rice for 30 minutes, sauté whole spices in ghee, layer half-cooked rice with spiced cooked vegetables, saffron water, and steam on dhum."
+  },
+  {
+    "id": "eval_03",
+    "question": "What is the recommended proportion of lentils to rice for Dosa batter?",
+    "ground_truth": "The standard ratio is 3 parts rice to 1 part Urad dal (black gram), soaked separately, ground finely, mixed with salt, and fermented overnight."
+  },
+  {
+    "id": "eval_04",
+    "question": "How to prepare Paneer Butter Masala gravy?",
+    "ground_truth": "Sauté onions, tomatoes, ginger, garlic, and cashews into a fine paste. Cook paste in butter with red chili powder, garam masala, add grilled paneer cubes and finish with heavy cream and kasuri methi."
+  },
+  {
+    "id": "eval_05",
+    "question": "What is the step-by-step method for tempering Dal Tadka?",
+    "ground_truth": "Boil Toor dal with turmeric and salt. For tempering, heat ghee in a small pan, add mustard seeds, cumin seeds, dried red chilies, chopped garlic, curry leaves, and asafoetida, then pour over dal."
+  },
+  {
+    "id": "eval_06",
+    "question": "How to make authentic Indian Naan bread at home?",
+    "ground_truth": "Mix all-purpose flour (maida), yogurt, baking powder, salt, and oil with warm water. Knead soft dough, rest for 2 hours, roll into oval shape, brush water on one side, stick to hot tawa, and flip to cook over direct flame."
+  },
+  {
+    "id": "eval_07",
+    "question": "What ingredients are used for South Indian Sambhar seasoning?",
+    "ground_truth": "Boiled Toor dal cooked with tamarind pulp, sambhar powder, mixed vegetables (drumstick, carrots, onions), tempered with mustard seeds, curry leaves, and dried red chilies."
+  },
+  {
+    "id": "eval_08",
+    "question": "How to prepare Chana Masala (Chickpea Curry)?",
+    "ground_truth": "Soak and boil chickpeas with tea bag/cinnamon. Sauté onions, ginger, garlic, tomato puree, chana masala powder, amchur powder, and simmer boiled chickpeas until thick gravy forms."
+  },
+  {
+    "id": "eval_09",
+    "question": "What are the main ingredients for Gulab Jamun dessert?",
+    "ground_truth": "Khoya (milk solids) or milk powder mixed with a small amount of maida and cardamom. Form smooth ball dough without cracks, deep fry in low flame oil/ghee, and soak in warm sugar syrup with rose water."
+  },
+  {
+    "id": "eval_10",
+    "question": "What is the preparation method for Raita side dish?",
+    "ground_truth": "Whisk fresh yogurt smooth, add finely chopped cucumber, onions, roasted cumin powder, black salt, chopped mint leaves, and fresh coriander."
+  }
+]
